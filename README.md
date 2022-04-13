@@ -1,6 +1,6 @@
 # Demo
 {
- "firstName": "Natasha",
-  "lastName": "Dsouza",
+ "firstName": "Jericho",
+  "lastName": "Noronha",
   "age": 20
 }
